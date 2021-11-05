@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-UBL5MSL7_SQLDGONZALEZ.ModeloDimensionalAlbarran"
+  DTS:DTSID="{121FBBFB-1B5E-4BEB-84A2-54A2F54A0794}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=LAPTOP-UBL5MSL7\SQLDGONZALEZ;Initial Catalog=ModeloDimensionalAlbarran;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
